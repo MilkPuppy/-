@@ -23,5 +23,5 @@
 本项目使用MIT License。
 
 ## 版权
-© MilkPuppy, 2023
+© MilkPuppy, 2023 \
 © Bonity, 2023
